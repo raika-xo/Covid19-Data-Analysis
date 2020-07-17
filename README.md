@@ -1,6 +1,6 @@
 # Covid19-Data-Analysis
 This is a Data Analysis Project attempts to find a relation between the spread of the the virus in a country and how happy people are, living in that country through GDP per capita, Healthy life expectancy, Social support etc.
-The time period is from Jan'20 to April'20. 
+The time period is from Jan'20 to April'20. This project was done under the guidance provided by Cousera. 
 
 Consists of two data sets:
     
