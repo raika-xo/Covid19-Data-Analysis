@@ -13,7 +13,7 @@ Consists of two data sets:
 	-Pandas
 	-Numpy
 	-Matplotlib
-	-Seaboard
+	-Seaborn
 
 ### Cleaning of Datasets
 Both the datasets had many columns that werent required for the analysis hence they were removed by using drop feature in DataFrames in Pandas library. Apart from this maximum value from first derivative was calculated to obtain the rate of infection of the virus country wise.
@@ -22,7 +22,7 @@ Both the datasets had many columns that werent required for the analysis hence t
 The datasets were merged to obtain a final dataset that had maximum infection rate, GDP per capita, Healthy Life Expectancy, Social Support, Happiness score etc. And a correlaation was obtained which turned out to be positive.
 
 ### Visualisation 
-The result was then shown usind seaboard in the form of scatterplot and curve fitting was done and shown on the same that visually represented the positive correlation.
+The result was then shown usind seaborn and matlpotlib in the form of scatterplot and curve fitting was done and shown on the same that visually represented the positive correlation.
 
 ### Conclusion 
 Countries with higher happiness score had more infection rate
